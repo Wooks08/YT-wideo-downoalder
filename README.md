@@ -1,4 +1,4 @@
-# YT-wideo-downoalder
+# YT video downoalder V 1.0
 Niezawirusowana aplikacja do pobierania wideo z YouTube
 
 ## Pobieranie
