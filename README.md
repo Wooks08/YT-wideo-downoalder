@@ -17,7 +17,7 @@ Niezawirusowana aplikacja do pobierania wideo z YouTube
 Aby korzystać z aplikacji, należy wykonać tylko kilka prostych kroków
 
  1. **Zainstaluj** aplikację *(Poradnik powyżej)*
- 2. **Otwórz ją**
+ 2. **Otwórz ją** (może się ona otwierać jakiś czas)
  3. **Skopiuj link z YouTube**, z którego chcesz pobrać film
  4. Kliknij **Zatwierdź**
  5. Poczekaj, aż plik się pobierze
