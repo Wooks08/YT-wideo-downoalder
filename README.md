@@ -18,7 +18,7 @@ Aby korzystać z aplikacji, należy wykonać tylko kilka prostych kroków
 
  1. **Zainstaluj** aplikację *(Poradnik powyżej)*
  2. **Otwórz ją**
- 3. ** Skopiuj link z YouTube**, z którego chcesz pobrać film
+ 3. **Skopiuj link z YouTube**, z którego chcesz pobrać film
  4. Kliknij **Zatwierdź**
  5. Poczekaj, aż plik się pobierze
  6. Ciesz się **pobranym plikiem**
